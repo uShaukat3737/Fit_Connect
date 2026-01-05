@@ -5,7 +5,7 @@
 ## 🚀 Key Features
 
 ### 👤 Regular User Interface
-* [cite_start]**Comprehensive Tracking:** Log daily workouts including type, duration, intensity, and calories burnt[cite: 143, 148].
+* **Comprehensive Tracking:** Log daily workouts including type, duration, intensity, and calories burnt.
 * [cite_start]**Nutrition Logging:** Track daily meals and calorie intake for strict dietary management[cite: 151, 155].
 * [cite_start]**Progress Analysis:** Features a dynamic tier-based ranking system (Bronze to Champion) that calculates user progress based on workout consistency and intensity[cite: 121].
 * [cite_start]**Social & Community:** Engage in a shared community forum and direct messaging with assigned personal trainers[cite: 71, 106, 126].
