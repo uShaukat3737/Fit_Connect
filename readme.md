@@ -1,6 +1,6 @@
 # Fit Connect: Multi-User Gym & Fitness Management System
 
-**Fit Connect** is a robust, console-based fitness tracking and gym management application engineered in C++. [cite_start]It utilizes advanced Object-Oriented Programming (OOP) paradigms and binary file persistence to provide a seamless, multi-role experience for gym members, professional trainers, and system administrators.
+**Fit Connect** is a robust, console-based fitness tracking and gym management application engineered in C++.It utilizes advanced Object-Oriented Programming (OOP) paradigms and binary file persistence to provide a seamless, multi-role experience for gym members, professional trainers, and system administrators.
 
 ## 🚀 Key Features
 
